@@ -875,7 +875,7 @@ print color.BLUE + subject + color.END
 title = """###########################################################
 #           BRUTE FORCE TOOLKIT v1.0 (BrutForT)  	  #
 #---------------------------------------------------------#
-#	       	      TOLGA AKKAPULU			  #
+#	       	      ZEKI OZSIVIL			  #
 #              http://www.zekiozsivil.com		  #
 #---------------------------------------------------------#
 #      #
